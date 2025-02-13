@@ -108,9 +108,7 @@ Energy policy:
 
 ### Data <a name="data"></a>
 
-- SLOCAT Transport, Climate and Sustainability Global Status Report: https://tcc-gsr.com/ 
-- SLOCAT Transport and Knowledge Base (TraKB):  https://tcc-gsr.com/3rd-edition-transport-knowledge-base-trakb/ 
-- Asian Transport Outlook: https://asiantransportoutlook.com/ 
+- 
 
 
 Overview/Table of Content: https://github.com/giz-t-hub/Overview
